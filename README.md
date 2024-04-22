@@ -16,10 +16,10 @@
 1. First clone the repository and make sure you see all libraries listed in the requirements.txt
 2. Run this command to install all the requrired packages (pip install -r requirements.txt)
 3. Create a .env file to store your OpenAI API key, Typsense API key and your typesense host.
-4. For generating Typesense API key and other credentials kindly refer this documentation (Typsense Docs)][https://typesense.org/]
+4. For generating Typesense API key and other credentials kindly refer this documentation [Typsense Docs](https://typesense.org/)
 
 - **Running the app.py file** : This file contains the module with all the methods embedded. It can used in the backend for testing and debugging purposes. Run this file with this command **(python app.py)**
 
 - **Running the chainlit app** : We call our class here to do all processing and finally get an answer given an input PDF and query.  Run this file with this command **(chainlit run chainlit_app.py -w)**
 
-(Demo Link)[https://www.loom.com/share/6dd91ee3b28c455487ca81338ac109b1?sid=43620e81-1b74-4bf6-bf6e-039fbe110479]
+[Demo Link](https://www.loom.com/share/6dd91ee3b28c455487ca81338ac109b1?sid=43620e81-1b74-4bf6-bf6e-039fbe110479)
