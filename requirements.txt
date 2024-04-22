@@ -1,0 +1,8 @@
+langchain
+PyPDF2
+python-dotenv
+openai
+pdfplumber
+typesense
+tiktoken
+chainlit
